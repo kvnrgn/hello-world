@@ -1,2 +1,5 @@
 # hello-world
-Into thw wild
+Into the wild
+Writing some stuff
+Getting familiar
+Hoping to learn something valuable
